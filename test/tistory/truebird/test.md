@@ -1,1 +1,2 @@
-API : JJAJAN
+api : jaaja 
+pw : sadsada
