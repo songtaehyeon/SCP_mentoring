@@ -4,3 +4,5 @@ iP : 112.32.112.53
 api : testinday
 id : test
 password : yame
+kakao : truebird0109
+qwer : rest
